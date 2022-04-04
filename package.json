@@ -1,0 +1,26 @@
+{
+  "name": "unreal-m-ai",
+  "version": "0.0.1",
+  "description": "Common AI tooling",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowmint/unreal-m-ai.git"
+  },
+  "files": [
+    "index.js",
+    "scripts",
+    "src"
+  ],
+  "author": "douglas.linder@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowmint/unreal-m-ai/issues"
+  },
+  "homepage": "https://github.com/shadowmint/unreal-m-ai",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "dependencies": {
+  }
+}
