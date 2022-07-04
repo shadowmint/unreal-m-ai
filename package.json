@@ -1,6 +1,6 @@
 {
   "name": "unreal-m-ai",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Common AI tooling",
   "main": "index.js",
   "repository": {
