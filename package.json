@@ -22,5 +22,8 @@
     "postinstall": "node scripts/postinstall.js"
   },
   "dependencies": {
+    "unreal-m-graph": "github:shadowmint/unreal-m-graph",
+    "unreal-m-utils": "github:shadowmint/unreal-m-utils",
+    "unreal-m-tasks": "github:shadowmint/unreal-m-tasks"
   }
 }

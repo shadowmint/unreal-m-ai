@@ -34,6 +34,10 @@
     {
       "Name": "MUtils",
       "Enabled": true
+    },
+    {
+      "Name": "MGraphs",
+      "Enabled": true
     }
   ]
 }
