@@ -98,7 +98,7 @@ APawn* UMAiDetectPlayer::CanCurrentlyPerceivePlayer() const
 
 	auto Info = FActorPerceptionBlueprintInfo();
 	Perception->GetActorsPerception(Pawn, Info);
-	if (Info.LastSensedStimuli.Num() == 0) return false;
+	if (Info.LastSensedStimuli.Num() == 0) return nullptr;
 
 	for (const auto& S : Info.LastSensedStimuli)
 	{

@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "MAiTask_MoveAwayFromPlayer.h"
 #include "NavigationSystem.h"
-#include "BaseTypes/MAiCommand.h"
+#include "MAiBaseTypes/MAiCommand.h"
 #include "GameFramework/CharacterMovementComponent.h"
 #include "UObject/Object.h"
 #include "MAiTask_MoveAwayFromPlayerCommand.generated.h"

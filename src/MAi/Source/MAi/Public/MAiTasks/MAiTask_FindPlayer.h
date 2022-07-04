@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "BaseTypes/MAiTask.h"
+#include "MAiBaseTypes/MAiTask.h"
 #include "MAiTask_FindPlayer.generated.h"
 
 /**

@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "BaseTypes/MAiTaskAsync.h"
+#include "MAiBaseTypes/MAiTaskAsync.h"
 #include "UObject/Object.h"
 #include "MAiTask_MoveAwayFromPlayer.generated.h"
 
